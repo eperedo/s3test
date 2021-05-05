@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "prebuild hook"
+echo "prebuild hook message"
