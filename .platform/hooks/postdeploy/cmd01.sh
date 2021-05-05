@@ -1,4 +1,4 @@
 #!/bin/bash
 
-echo "postdeploy hook"
+echo "postdeploy hook message"
 cat .platform/files/file.conf
